@@ -1,4 +1,4 @@
-# Project1 자동 창문 청소 로봇(ROBOT-To-Clean-Window)
+# 자동 창문 청소 로봇(ROBOT-To-Clean-Window)
 - 사용 대상
     - 고층 창문 청소하는 고객
 - 문제 의식
